@@ -4,6 +4,11 @@
      "model": "Camaro",
      "picture_url": "https://cdn.pixabay.com/photo/2016/02/19/15/56/transformers-1210585_960_720.jpg",
      "price_per_day": 17,
+     "anio": "2012",
+     "precio": "250,000",
+     "km": "60,000 kms",
+     "motor": "v6",
+     "garantia": "garantia de 9 meses",
      "rating": {
        "average": 4.697711,
        "count": 259
