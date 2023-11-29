@@ -1,0 +1,117 @@
+[
+   {
+     "brand": "GMC",
+     "model": "Camaro",
+     "picture_url": "https://cdn.pixabay.com/photo/2016/02/19/15/56/transformers-1210585_960_720.jpg",
+     "price_per_day": 18,
+     "anio": "2012",
+     "precio": "250,000",
+     "km": "60,000 kms",
+     "motor": "v6",
+     "garantia": "garantia de 9 meses",
+     "rating": {
+       "average": 4.697711,
+       "count": 259
+     },
+     "owner": {
+       "name": "Elmira Sorrella",
+       "picture_url": "https://cdn.pixabay.com/photo/2016/02/19/15/56/transformers-1210585_960_720.jpg",
+       "rating": {
+         "average": 4.318206,
+         "count": 255
+       }
+     }
+   },
+   {
+     "brand": "VW",
+     "model": "Beetle",
+     "picture_url": "https://cdn.pixabay.com/photo/2014/01/16/13/56/vw-246365_960_720.jpg",
+     "price_per_day": 27,
+     "anio": "2009",
+     "precio": "70,000",
+     "km": "290,000 kms",
+     "motor": "v5",
+     "garantia": "garantia de 3 meses",      
+     "rating": {
+       "average": 4.7544947,
+       "count": 250
+     },
+     "owner": {
+       "name": "Britni Fitch",
+       "picture_url": "https://cdn.pixabay.com/photo/2014/01/16/13/56/vw-246365_960_720.jpg",
+       "rating": {
+         "average": 4.7478724,
+         "count": 107
+       }
+     }
+   },
+   {
+     "brand": "Jeep",
+     "model": "Renegade",
+     "picture_url": "https://cdn.pixabay.com/photo/2020/03/06/12/35/jeep-4906965_960_720.jpg",
+     "price_per_day": 35,
+     "anio": "2019",
+     "precio": "399,999",
+     "km": "60,500 kms",
+     "motor": "v4",
+     "garantia": "garantia de 12 meses",      
+     "rating": {
+       "average": 4.821972,
+       "count": 55
+     },
+     "owner": {
+       "name": "Kenna Clemons",
+       "picture_url": "https://cdn.pixabay.com/photo/2020/03/06/12/35/jeep-4906965_960_720.jpg",
+       "rating": {
+         "average": 3.1331077,
+         "count": 67
+       }
+     }
+   },
+   {
+     "brand": "VW",
+     "model": "Sedan",
+     "picture_url": "https://cdn.pixabay.com/photo/2017/03/06/21/19/car-2122580_960_720.jpg",
+     "price_per_day": 41,
+     "anio": "1990",
+     "precio": "30,000",
+     "km": "499,000 kms",
+     "motor": "v4",
+     "garantia": "no aplica garantia",      
+     "rating": {
+       "average": 4.880431,
+       "count": 270
+     },
+     "owner": {
+       "name": "Kasey Ayres",
+       "picture_url": "https://cdn.pixabay.com/photo/2017/03/06/21/19/car-2122580_960_720.jpg",
+       "rating": {
+         "average": 3.9378479,
+         "count": 167
+       }
+     }
+   },
+   {
+     "brand": "Ford",
+     "model": "Fiesta",
+     "picture_url": "https://cdn.pixabay.com/photo/2018/08/01/16/58/ford-3577591_960_720.jpg",
+     "price_per_day": 44,
+     "anio": "2015",
+     "precio": "70,000",
+     "km": "90,000 kms",
+     "motor": "v4",
+     "garantia": "garantia de 12 meses",
+     "rating": {
+       "average": 4.403592,
+       "count": 171
+     },
+     "owner": {
+       "name": "Valeri Kaminski",
+       "picture_url": "https://cdn.pixabay.com/photo/2018/08/01/16/58/ford-3577591_960_720.jpg",
+       "rating": {
+         "average": 4.091597,
+         "count": 188
+       }
+     }
+   }
+ ]
